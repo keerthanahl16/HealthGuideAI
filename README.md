@@ -11,3 +11,16 @@ Features:
 Developer:
 Keerthana H L
 USN: 1JS22CI028
+
+
+## Screenshots
+
+### Dashboard
+![Dashboard](dashboard.png)
+
+### AI Chat
+![Chat](chat.png)
+
+### About Screen
+![About](about.png)
+
