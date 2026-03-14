@@ -16,11 +16,11 @@ USN: 1JS22CI028
 ## Screenshots
 
 ### Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ### AI Chat
-![Chat](chat.png)
+![Chat](Screen.png)
 
 ### About Screen
-![About](about.png)
+![About](Aboutscreen.png)
 
