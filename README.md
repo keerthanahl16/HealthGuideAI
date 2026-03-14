@@ -22,5 +22,5 @@ USN: 1JS22CI028
 ![Chat](Screen.png)
 
 ### About Screen
-![About](Aboutscreen.png)
+![About](About screen.png)
 
